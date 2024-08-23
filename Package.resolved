@@ -1,0 +1,24 @@
+{
+  "originHash" : "07caa918ac668c26046c9424d808f2df3c023fa7d305214957c1d203f3ab19b7",
+  "pins" : [
+    {
+      "identity" : "joseswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airsidemobile/JOSESwift.git",
+      "state" : {
+        "revision" : "10ed3b6736def7c26eb87135466b1cb46ea7e37f",
+        "version" : "2.4.0"
+      }
+    },
+    {
+      "identity" : "swiftyrsa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TakeScoop/SwiftyRSA.git",
+      "state" : {
+        "revision" : "6521919ad0e99dff927685f142d8136479acb452",
+        "version" : "1.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}
